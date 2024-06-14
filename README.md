@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Javascript, Vue.js
 - 📫 How to reach me: https://www.linkedin.com/in/ashanty-sierra/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Racoons can make over 200 sounds to comunicate between them
+- ⚡ Fun fact: Racoons can make over 200 sounds to comunicate among other racoons
 
