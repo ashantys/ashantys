@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: UI/UX
-- 🌱 I’m currently learning: Javascript, Vue.js
+- 🌱 I’m currently learning: Javascript, React
 - 📫 How to reach me: https://www.linkedin.com/in/ashanty-sierra/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Racoons can make over 200 sounds to comunicate among other racoons
